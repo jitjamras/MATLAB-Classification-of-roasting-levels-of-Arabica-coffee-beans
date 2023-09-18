@@ -1,0 +1,8 @@
+https://www.kaggle.com/datasets/gpiosenka/coffee-bean-dataset-resized-224-x-224?select=Coffee+Bean.csv
+
+(เนื้อหา)
+	แยกการคั่วเมล็ดกาแฟด้วยสีของเมล็ดกาแฟ มีอยู่ 4 ระดับ
+	1.เมล็ดกาแฟสีเขียวหรือไม่คั่วคือกาแฟลาว Typica Bolaven (Coffea arabica)
+	2.ลาว Typica Bolaven เป็นเมล็ดกาแฟคั่วอ่อน (Coffea arabica)
+	3.ดอยช้าง (Coffea arabica) คั่วกลาง
+	4.Brazil Cerrado คั่วเข้ม (กาแฟอาราบิก้า) 
